@@ -1,5 +1,5 @@
 <h2>Tesla-Clone</h2>
-In the project directory, I have made a clone of Tesla.com
+In the project directory, I have made a clone of tesla.com
 
 <hr/>
 <h3>Languages Used</h3>
