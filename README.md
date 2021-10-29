@@ -2,20 +2,21 @@
 In the project directory, I have made a clone of tesla.com
 
 <hr/>
-<h3>Languages Used</h3>
+<h3>Tool-kit & languages Used</h3>
 
 * REACT
 * JavaScript
 * React Redux
 * React Router Dom
-* axios
 * react-dom
 * react-redux
 * react-router-dom
 * react-scripts
 * redux
 * styled-components
-* animation-libray
+* react-reveal
+* material-ui
+
 
 <hr/>
 
@@ -33,7 +34,7 @@ In the project directory, I have made a clone of tesla.com
 <hr/>
 
 ## Installation and Setup Instructions
-Clone down this repository using this <a href="https://github.com/Anujshar5ma2590/Tesla.com-clone-react-redux">link</a>
+Clone down this repository using this <a href="https://github.com/Anujsharma2590/tesla.com-clone-react-redux">link</a>
 
 You will need node and npm installed globally on your machine. 
 
