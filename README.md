@@ -22,7 +22,7 @@ In the project directory, I have made a clone of tesla.com
 
 ## Sneak Peak
 #### Landing Page
-<a href="https://tesla-anuj.netlify.app/">link</a>
+<a href="https://tesla-anuj.netlify.app/">tesla-anuj.netlify.app</a>
 
 #### Tesla Pages
 
