@@ -4,7 +4,7 @@ In the project directory, I have made a clone of tesla.com
 <hr/>
 <h3>Tool-kit & languages Used</h3>
 
-* REACT
+* React
 * JavaScript
 * React Redux
 * React Router Dom
@@ -22,15 +22,21 @@ In the project directory, I have made a clone of tesla.com
 
 ## Sneak Peak
 #### Landing Page
-<img src="/>
+<img src="https://tesla-anuj.netlify.app/"/>
 
 #### Tesla Pages
 
 <img src="./one.PNG"/>
 <hr/>
-<img src=""/>
+<img src="./two.PNG"/>
 <hr/>
-<img src=""/>
+<img src="./three.PNG"/>
+<hr/>
+<img src="./four.PNG"/>
+<hr/>
+<img src="./five.PNG"/>
+<hr/>
+<img src="./six.PNG"/>
 <hr/>
 
 ## Installation and Setup Instructions
