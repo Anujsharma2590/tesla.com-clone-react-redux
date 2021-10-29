@@ -26,7 +26,7 @@ In the project directory, I have made a clone of tesla.com
 
 #### Tesla Pages
 
-<img src=""/>
+<img src="./one.PNG"/>
 <hr/>
 <img src=""/>
 <hr/>
